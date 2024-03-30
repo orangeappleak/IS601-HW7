@@ -32,5 +32,9 @@ The script uses environment variables for configuration. You can customize the d
     - SECRET_BACK_COLOR: Background color for the QR code (default: white)
 
 
+### Results
+![QR CODE image for my github](./secret_qr_code/SecretQR_20240329212434.png)
+![logs image](./Screenshot%202024-03-29%20at%209.36.10 PM.png)
+
 ### Author
 Karthik A
