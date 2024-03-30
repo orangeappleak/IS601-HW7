@@ -58,7 +58,7 @@ def generate_secret_qr_code(data, path, fill_color='black', back_color='white'):
 
 def main():
     parser = argparse.ArgumentParser(description='Generate a secret QR code.')
-    parser.add_argument('--url', help='The URL to encode in the secret QR code', default='https://example.com')
+    parser.add_argument('--url', help='The URL to encode in the secret QR code', default='https://github.com/orangeappleak')
     args = parser.parse_args()
 
     setup_logging()
